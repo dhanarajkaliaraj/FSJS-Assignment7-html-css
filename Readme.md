@@ -7,6 +7,6 @@
     - Text formating.
 ### :hourglass_flowing_sand: Time taken to complete!
     - 2.5 hours
-### :computer: [Assignment-7 live link](https://dhanaraj-assignment7.netlify.app)
+### :computer: [Assignment-7 link](https://dhanaraj-assignment7.netlify.app)
  
 <div align="right">:name_badge: Dhanaraj Kaliaraj</div>
